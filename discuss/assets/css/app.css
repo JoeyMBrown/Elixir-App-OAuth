@@ -1,0 +1,12 @@
+/* This file is for your main application css. */
+
+@import "./phoenix.css";
+
+
+/*Targets all error messages*/
+.help-block {
+    color: red;
+    text-transform: capitalize;
+    top: 5px;
+    position: relative;
+}
